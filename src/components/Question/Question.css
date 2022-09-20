@@ -1,0 +1,207 @@
+
+.contact{
+    position: absolute;
+width: 904px;
+height: 120px;
+left: 463px;
+top: 4200px;
+
+font-family: 'KyivType Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 90px;
+line-height: 132.9%;
+/* identical to box height, or 120px */
+
+text-transform: uppercase;
+
+color: #F5F5F5;
+}
+
+.text{
+    position: absolute;
+width: 400px;
+height: 126px;
+left: 664px;
+top: 4350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 139.4%;
+/* or 42px */
+
+text-align: right;
+
+color: #F5F5F5;
+
+}
+
+.name{
+    box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: 100px;
+top: 4350px;
+
+border: 3px solid #728BAD;
+border-radius: 42px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500px;
+font-size: 23px;
+line-height: 139.4%;
+background-color: black;
+}
+.Rectangle43{
+    box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: 100px;
+top: 4420px;
+
+border: 3px solid #728BAD;
+border-radius: 42px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 139.4%;
+background-color:black;
+}
+
+.message{
+    box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 200px;
+left: 100px;
+top: 4500px;
+
+border: 3px solid #728BAD;
+border-radius: 42px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 139.4%;
+background-color: black;
+}
+.send{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 11px 70px;
+gap: 10px;
+
+position: absolute;
+width: 216px;
+height: 58px;
+left: 100px;
+top: 4730px;
+
+background: #728BAD;
+border-radius: 42px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #F5F5F5;
+}
+
+.wood{
+    position: absolute;
+width: 500.31px;
+height: 470.47px;
+left: 654px;
+top: 4500.65px;
+transform: rotate(-8.13deg);
+}
+.Rectangle21{
+    position: absolute;
+width: 1345px;
+height: 215px;
+left: 0px;
+top:4850px;
+box-shadow: 0px -6px 52px rgba(245, 245, 245, 0.17);
+background-color: black;
+
+}
+
+.call{
+    position: absolute;
+left: 20.5%;
+right: 14.49%;
+top: 19.49%;
+bottom: 12.5%;
+}
+
+.ph{
+    position: absolute;
+    font-weight: 450px;
+    font-size: 36px;
+left: 25%;
+top: 19.49%;
+}
+.address{
+    
+position: absolute;
+width: 250px;
+height: 80px;
+left: 860px;
+top: 19.49%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 139.4%;
+color: #F5F5F5;
+/* or 42px */
+}
+
+.footer{
+    
+position: absolute;
+width: 134px;
+height: 28px;
+left: 30px;
+top: 160px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 139.4%;
+/* identical to box height, or 28px */
+
+
+color: #F5F5F5;
+
+
+}
+
+.location{
+    position: absolute;
+right: 37.5%;
+top: 15.49%;
+bottom: 0%;
+width:60px;
+height: 50px;
+
+
+}
+
+vect{
+right: 37.5%;
+top: 18.75%;
+}

@@ -1,0 +1,154 @@
+.work{
+    position:absolute;
+width: 532px;
+height: 120px;
+left: 243px;
+top: 1600px;
+
+font-family: 'KyivType Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 75px;
+line-height: 132.9%;
+/* identical to box height, or 120px */
+
+text-transform: uppercase;
+
+color: #F5F5F5;
+}
+.sliderimg1{
+    border-radius: 42px;
+    width: 900px;
+    height: 550px;
+    margin-top: 1170px;
+    margin-left: 200px;
+
+}
+*{
+    box-sizing: border-box;
+}
+.Slideshow container{
+    max-width:1000px;
+    position:relative;
+    margin: auto;
+}
+.prev, .next{
+    cursor:pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color:white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+.work1{
+    position: absolute;
+width: 1040px;
+height: 230px;
+left: 243px;
+top: 2500px;
+
+font-family: 'KyivType Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 90px;
+line-height: 132.9%;
+/* or 120px */
+
+text-transform: uppercase;
+
+color: #F5F5F5;
+}
+
+.k1{
+    
+position: absolute;
+width: 550px;
+height: 370px;
+left: 160px;
+top: 2800px;
+border-radius: 42px;
+}
+
+
+.s1{
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    left: 800px;
+    top:2800px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 139.4%;
+/* or 42px */
+
+
+color: #F5F5F5;
+}
+
+.s2{
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    left: 800px;
+    top:2900;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 139.4%;
+/* or 42px */
+
+
+color: #F5F5F5;
+}
+
+.s3{
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    left: 800px;
+    top:5000;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 139.4%;
+/* or 42px */
+
+
+color: #F5F5F5;
+}
+
+.bt1{
+position: absolute;
+width: 260x;
+height: 39px;
+left: 400px;
+top: 3250px;
+padding: 11px 50px;
+background: #728BAD;
+border-radius: 42px;
+   
+}
+.con{
+    width: 200px;
+height: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 36px;
+
+color: #F5F5F5;
+
+}

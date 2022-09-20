@@ -1,0 +1,100 @@
+.num1{
+  position: absolute;
+width: 329px;
+height: 539px;
+left: 162px;
+top: 0px;
+
+font-family: 'KyivType Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 500px;
+line-height: 107.9%;
+/* or 539px */
+
+
+color: #F5F5F5;
+}
+
+.num2{
+position: absolute;
+  width: 329px;
+  height: 539px;
+  left: 562px;
+  top:0px;
+  
+  font-family: 'KyivType Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 500px;
+  line-height: 107.9%;
+  /* or 539px */
+  
+  
+  color: #F5F5F5;
+}
+
+.num3{
+  position: absolute;
+  width: 329px;
+  height: 539px;
+  left:962px;
+  top: 0px;
+  
+  font-family: 'KyivType Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 500px;
+  line-height: 107.9%;
+  /* or 539px */
+  
+  
+  color: #F5F5F5;
+}
+
+.txt{
+  position: absolute;
+width: 310px;
+height: 97px;
+left: 578px;
+top:450px;
+
+font-family: 'KyivType Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 85px;
+line-height: 109.9%;
+/* or 97px */
+
+
+color: #F5F5F5;
+
+}
+
+.txt1{
+  position: absolute;
+width: 772px;
+height: 36px;
+left: 305px;
+top: 549px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #FFDBBB;
+}
+
+.Navbar > .nav-items1 > a {
+  color: #F5F5F5;
+  font-size: 20px;
+  text-decoration: none;
+  left: 30px;
+    margin-right: 80px;
+
+  position: relative;
+  opacity: 0.9;
+}

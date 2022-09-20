@@ -1,0 +1,66 @@
+.ct{
+    position: absolute;
+width: 400px;
+height: 100px;
+left: 170px;
+top: 200px;
+
+font-family: 'KyivType Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 132.9%;
+/* identical to box height, or 120px */
+
+text-transform: uppercase;
+
+color: #F5F5F5;
+}
+.call1{
+position:absolute;
+left: 4%;
+right: 51.80%;
+top: 50.49%;
+bottom: 5.5%;
+}
+
+.ph0ne{
+    position:relative;
+    font-weight: 450px;
+    font-size: 36px;
+margin-bottom: 1000px;
+margin-left: 100px;
+}
+
+.map{
+    position: absolute;
+width: 390px;
+height: 350px;
+left: 700px;
+top: 220px;
+}
+
+
+
+  .loc{
+
+margin-left:170px;
+margin-top: 450px;
+width:60px;
+height: 50px;
+
+
+}
+
+
+
+    .form{
+        
+    width: 1345px;
+    height: 215px;
+    left: 0px;
+    top:700px;
+    box-shadow: 0px -6px 52px rgba(245, 245, 245, 0.17);
+    background-color: black;
+    
+    }

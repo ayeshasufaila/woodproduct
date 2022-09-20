@@ -1,0 +1,169 @@
+.Material{
+    position: absolute;
+width: 700px;
+height: 180px;
+left: 243px;
+top: 750px;
+
+font-family: 'KyivType Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 75px;
+line-height: 132.9%;
+/* or 120px */
+
+text-transform: uppercase;
+
+color: #F5F5F5;
+
+}
+.w1{
+position: absolute;
+width: 205px;
+height: 205px;
+left: 150px;
+top: 1000px;
+
+
+border-radius: 42px;
+}
+.w2
+{
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    left: 550px;
+    top: 1000px;
+    border-radius: 42px;
+}
+.w3{
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    right: 150px;
+    top:1000px;
+    border-radius: 42px;
+}
+
+.oak{
+    left: 220px;
+    top: 1220px;
+    position: absolute;
+    width: 59px;
+    height: 36px;
+    
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: #F5F5F5;
+    
+}
+.buk{
+    left:625px;
+    top:1220px;
+    position: absolute;
+    width: 59px;
+    height: 36px;
+    
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: #F5F5F5;
+    
+}
+.ash{
+    right:210px;
+    top:1220px;
+    position: absolute;
+    width: 59px;
+    height: 36px;
+    
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: #F5F5F5;
+    
+}
+.q{
+    position: absolute;
+width: 120px;
+height: 26px;
+left: 200px;
+top: 1270px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+
+color: #F5F5F5;
+
+}
+.li{
+    position:relative;
+}
+li.done{
+    list-style:none;
+}
+li.done:after{
+    content:"";
+    background-color: transparent;
+    position:absolute;
+    left:-16px;
+    top:2.48px;
+    width:5px;
+    border-bottom: 3px solid #FFC099;
+    height: 13px;
+    border-right: 3px solid#FFC099;
+    transform:rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+.q1{
+    position: absolute;
+width: 138px;
+height: 36px;
+left: 600px;
+top: 1270px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #F5F5F5;
+
+}
+
+.q2{
+    position: absolute;
+width: 138px;
+height: 36px;
+right: 160px;
+top: 1270px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #F5F5F5;
+
+}
